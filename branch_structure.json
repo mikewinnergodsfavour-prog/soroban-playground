@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1754-be-06-rfc-6902-json-patch-websocket-state",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1754-be-06-rfc-6902-json-patch-websocket-state": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1754-be-06-rfc-6902-json-patch-websocket-state",
+    "origin"
+  ]
+}
